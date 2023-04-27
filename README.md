@@ -20,8 +20,6 @@ And here is the smooth pagination GIFs - <br>
 
 If you have not visited this mini project yet.
 
-<br>
-
 <h3><a href="https://the-dummy-products.vercel.app/">Click Here to Visit.</a></h3>
 
 
@@ -59,7 +57,6 @@ While building this project, I revised learning/use of these things.
  - Git & GitHub
 
  - Framer Motion & Photoshop
-
 
 
     
