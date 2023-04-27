@@ -1,70 +1,80 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# The Dummy Products
 
-## Available Scripts
+A simple listing of the dummy products using the Dummy JSON API.
 
-In the project directory, you can run:
+Please have a look once !!!
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Screenshots
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+![thedummyproducts](https://user-images.githubusercontent.com/49138951/234792096-ae186257-f5e4-4b56-a7b3-2c98443128b3.gif)
 
-### `npm test`
+And here is the smooth pagination GIFs - <br>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![paginations](https://user-images.githubusercontent.com/49138951/234792324-6b487351-55b1-4c3b-8d60-9a34779eab0d.gif)
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Run This ...
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+If you have not visited this mini project yet.
 
-### `npm run eject`
+<br>
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+<h3><a href="https://the-dummy-products.vercel.app/">Click Here to Visit.</a></h3>
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Tech Stack
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+**Language** JavaScript
 
-## Learn More
+**Library** React Js
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+**Styling** Tailwind CSS
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+**Icons** React Icons
 
-### Code Splitting
+**Deployed On** Vercel
+## Lessons Learned
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+While building this project, I revised learning/use of these things. 
+- React Js & ES6
+- Tailwind CSS
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
+# Hi, I'm Gyanindra 👋
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### Advanced Configuration
+## 🛠 Skills
+ - HTML, CSS , JavaScript
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+ - SASS, Tailwind CSS, Bootstrap
 
-### Deployment
+ - React Js, Next Js, Redux Js
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+ - Node Js, Express Js & MongoDB
 
-### `npm run build` fails to minify
+ - Git & GitHub
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+ - Framer Motion & Photoshop
+
+
+
+    
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://gyanindra.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igyanendrayadav/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/iGyanendraYadav/)
+[![instagram](https://img.shields.io/badge/insta-FD1D1D?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iGyanendraYadav/)
+
+
+## 🚀 About Me
+I'm working as Analyst at HCL Technologies. I love to design Attractive and Responsive website using React Js, Next Js,Redux, MongoDB, Firebase, Framer Motion, SASS and Tailwind CSS etc.
+<br>
+
+
+Thanks !!!
+
